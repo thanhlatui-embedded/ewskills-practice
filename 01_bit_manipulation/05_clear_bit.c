@@ -1,5 +1,5 @@
 /**
- * @file    04_Set the Bit in an 8-bit Register
+ * @file    05_clear_bit
  * @brief   You are working with an 8-bit control register. Write a function to clear (set to 0) the bit at a given position without affecting other bits.
             Use 0-based indexing for bit positions (0 = LSB, 7 = MSB).
  * @author  thanhlatui-embedded
